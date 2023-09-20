@@ -1,5 +1,6 @@
-# sa-wd-ph01
-# Instructions on How to Work in the Challenges Repo (copied from docs)
+# Spiced Academy Challenges for webDEV (Phase 1)
+
+## Instructions on How to Work in the Challenges Repo (copied from docs)
 
 Here is guidance on how to navigate and conquer the challenges.
 
